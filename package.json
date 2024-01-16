@@ -1,0 +1,12 @@
+{
+    "name": "new",
+    "description": "new",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "flowsnew.json",
+            "credentialsFile": "flowsnew_cred.json"
+        }
+    }
+}
