@@ -116,19 +116,6 @@
         ]
     },
     {
-        "id": "be159740b8e94353",
-        "type": "complete",
-        "z": "a0e50e073498df3f",
-        "name": "",
-        "scope": [],
-        "uncaught": false,
-        "x": 450,
-        "y": 100,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "81eaad7ad251928b",
         "type": "inject",
         "z": "a0e50e073498df3f",
