@@ -26,10 +26,10 @@
         "once": false,
         "onceDelay": 0.1,
         "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 500,
-        "y": 380,
+        "payload": "6",
+        "payloadType": "num",
+        "x": 450,
+        "y": 440,
         "wires": [
             [
                 "f61b606eca03c6ea",
