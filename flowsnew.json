@@ -86,5 +86,44 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "4426b9cbc4e47fe6",
+        "type": "complete",
+        "z": "a0e50e073498df3f",
+        "name": "",
+        "scope": [],
+        "uncaught": false,
+        "x": 490,
+        "y": 240,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "ddca41554e269301",
+        "type": "complete",
+        "z": "a0e50e073498df3f",
+        "name": "",
+        "scope": [],
+        "uncaught": false,
+        "x": 290,
+        "y": 180,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "be159740b8e94353",
+        "type": "complete",
+        "z": "a0e50e073498df3f",
+        "name": "",
+        "scope": [],
+        "uncaught": false,
+        "x": 450,
+        "y": 100,
+        "wires": [
+            []
+        ]
     }
 ]
