@@ -2,7 +2,9 @@
     "name": "new",
     "description": "new",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-simple-gate": "0.5.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flowsnew.json",
