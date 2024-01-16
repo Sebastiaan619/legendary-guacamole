@@ -27,9 +27,9 @@
         "onceDelay": 0.1,
         "topic": "",
         "payload": "6",
-        "payloadType": "num",
-        "x": 450,
-        "y": 440,
+        "payloadType": "str",
+        "x": 470,
+        "y": 420,
         "wires": [
             [
                 "f61b606eca03c6ea",
