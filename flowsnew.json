@@ -116,33 +116,6 @@
         ]
     },
     {
-        "id": "81eaad7ad251928b",
-        "type": "inject",
-        "z": "a0e50e073498df3f",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 340,
-        "y": 360,
-        "wires": [
-            []
-        ]
-    },
-    {
         "id": "5e32b94767cfebe2",
         "type": "gate",
         "z": "a0e50e073498df3f",
@@ -158,33 +131,6 @@
         "storeName": "memory",
         "x": 470,
         "y": 180,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "f67c25e7974a1e2b",
-        "type": "inject",
-        "z": "a0e50e073498df3f",
-        "name": "",
-        "props": [
-            {
-                "p": "payload"
-            },
-            {
-                "p": "topic",
-                "vt": "str"
-            }
-        ],
-        "repeat": "",
-        "crontab": "",
-        "once": false,
-        "onceDelay": 0.1,
-        "topic": "",
-        "payload": "",
-        "payloadType": "date",
-        "x": 500,
-        "y": 120,
         "wires": [
             []
         ]
