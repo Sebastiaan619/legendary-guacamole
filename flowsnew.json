@@ -81,8 +81,8 @@
         "initialize": "",
         "finalize": "",
         "libs": [],
-        "x": 1040,
-        "y": 100,
+        "x": 880,
+        "y": 160,
         "wires": [
             []
         ]
@@ -110,9 +110,7 @@
         "x": 290,
         "y": 180,
         "wires": [
-            [
-                "5e32b94767cfebe2"
-            ]
+            []
         ]
     },
     {
@@ -138,26 +136,6 @@
         "payloadType": "date",
         "x": 340,
         "y": 360,
-        "wires": [
-            []
-        ]
-    },
-    {
-        "id": "5e32b94767cfebe2",
-        "type": "gate",
-        "z": "a0e50e073498df3f",
-        "name": "",
-        "controlTopic": "control",
-        "defaultState": "open",
-        "openCmd": "open",
-        "closeCmd": "close",
-        "toggleCmd": "toggle",
-        "defaultCmd": "default",
-        "statusCmd": "status",
-        "persist": false,
-        "storeName": "memory",
-        "x": 470,
-        "y": 180,
         "wires": [
             []
         ]
